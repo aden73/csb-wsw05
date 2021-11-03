@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://aden73.github.io/csb-wsw05/static/css/main.12da3a2f.chunk.css",
+    "main.js": "https://aden73.github.io/csb-wsw05/static/js/main.72a53e18.chunk.js",
+    "main.js.map": "https://aden73.github.io/csb-wsw05/static/js/main.72a53e18.chunk.js.map",
+    "runtime-main.js": "https://aden73.github.io/csb-wsw05/static/js/runtime-main.68141f9b.js",
+    "runtime-main.js.map": "https://aden73.github.io/csb-wsw05/static/js/runtime-main.68141f9b.js.map",
+    "static/js/2.7a01d733.chunk.js": "https://aden73.github.io/csb-wsw05/static/js/2.7a01d733.chunk.js",
+    "static/js/2.7a01d733.chunk.js.map": "https://aden73.github.io/csb-wsw05/static/js/2.7a01d733.chunk.js.map",
+    "index.html": "https://aden73.github.io/csb-wsw05/index.html",
+    "static/css/main.12da3a2f.chunk.css.map": "https://aden73.github.io/csb-wsw05/static/css/main.12da3a2f.chunk.css.map",
+    "static/js/2.7a01d733.chunk.js.LICENSE.txt": "https://aden73.github.io/csb-wsw05/static/js/2.7a01d733.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68141f9b.js",
+    "static/js/2.7a01d733.chunk.js",
+    "static/css/main.12da3a2f.chunk.css",
+    "static/js/main.72a53e18.chunk.js"
+  ]
+}
